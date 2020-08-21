@@ -7,7 +7,8 @@ The Following project takes in the choce of the movie from the person and then b
 # Approach
 Here, the recommendation system will recommend movies 1, 2, and 5 (if rated high) to user B because user A has watched them. Similarly, movies 6, 7, and 8 (if rated high) will be recommended to user A, (if rated high) because user B has watched them. This is an example of user-user collaborative filtering.
 
-Files Description
+# Files Description
+
 1- movies.csv -> the CSV file we use as the train data for the model that contains a no. of entries of movies.
 
 2- ratings.csv -> the CSV file we use as the train data for the model that contains a no. of entries of ratings of the movies.
